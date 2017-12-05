@@ -9,10 +9,7 @@ li.L0, li.L1, li.L2, li.L3, li.L5, li.L6, li.L7, li.L8, li.L9 {
   }
 ```
 
-* 
-```
-不管是使用SyntaxHighlighter，还是使用Google-Code-Prettify，源代码中的"<"和">"都应该替换成&lt;和&gt;，否则可能无法正确进行语法高亮修饰。
-```
+* 不管是使用SyntaxHighlighter，还是使用Google-Code-Prettify，源代码中的"<"和">"都应该替换成&lt;和&gt;，否则可能无法正确进行语法高亮修饰。
 
 > A Vue.js project
 
